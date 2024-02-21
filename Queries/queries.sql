@@ -6,7 +6,8 @@ SELECT * FROM salaries;
 SELECT * FROM titles;
 SELECT * FROM dept_emp;
 
--- Drop Statement for Reference: DROP TABLE employees CASCADE;
+-- Drop Statement for Reference: 
+-- DROP TABLE employees CASCADE;
 
 -- Determine Retirement Eligibility
 SELECT first_name, last_name
