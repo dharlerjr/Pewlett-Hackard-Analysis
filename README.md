@@ -44,56 +44,56 @@ From Deliverable 2
 
 All in all, when the baby boomers retire, a major gap will need to be filled at Pewlett-Hackard. Luckily, our analysis will help the executive team weather the incoming storm. Please see below for screenshots of the deliverables.
 
-![List of Retiring Employees](https://github.com/dharlerjr/Pewlett-Hackard-Analysis/blob/main/Images/Fig2.RetiringEmployees.PNG)
-
 <p align="center">  
 <i>Figure 1: Head of List of Retiring Employees</i>
 </p>
 
-![Number of Employees Eligible for Retirement](https://github.com/dharlerjr/Pewlett-Hackard-Analysis/blob/main/Images/Fig3.CountRetiringEmployees.PNG)
+![List of Retiring Employees](https://github.com/dharlerjr/Pewlett-Hackard-Analysis/blob/main/Images/Fig2.RetiringEmployees.PNG)
 
 <p align="center">  
 <i>Figure 2: Total Number of Employees Eligible for Retirement</i>
 </p>
 
-![General Employee Information](https://github.com/dharlerjr/Pewlett-Hackard-Analysis/blob/main/Images/Fig4.EmployeeInfo.PNG)
+![Number of Employees Eligible for Retirement](https://github.com/dharlerjr/Pewlett-Hackard-Analysis/blob/main/Images/Fig3.CountRetiringEmployees.PNG)
 
 <p align="center">  
 <i>Figure 3: General Employee Information</i>
 </p>
 
-![List of Managers for Each Department](https://github.com/dharlerjr/Pewlett-Hackard-Analysis/blob/main/Images/Fig5.ListofManagers.PNG)
+![General Employee Information](https://github.com/dharlerjr/Pewlett-Hackard-Analysis/blob/main/Images/Fig4.EmployeeInfo.PNG)
 
 <p align="center">  
 <i>Figure 4: List of Managers for Each Department</i>
 </p>
 
-![List of Employees Retiring from Sales or Development](https://github.com/dharlerjr/Pewlett-Hackard-Analysis/blob/main/Images/Fig6.SalesandDevelopment.PNG)
+![List of Managers for Each Department](https://github.com/dharlerjr/Pewlett-Hackard-Analysis/blob/main/Images/Fig5.ListofManagers.PNG)
 
 <p align="center">  
 <i>Figure 5: List of Employees Retiring from Sales or Development</i>
 </p>
 
-![Number of Employees Retiring by Title](https://github.com/dharlerjr/Pewlett-Hackard-Analysis/blob/main/Images/Fig7.RetiringTitles.PNG)
+![List of Employees Retiring from Sales or Development](https://github.com/dharlerjr/Pewlett-Hackard-Analysis/blob/main/Images/Fig6.SalesandDevelopment.PNG)
 
 <p align="center">  
 <i>Figure 6: Number of Employees Retiring by Title</i>
 </p>
 
-![List of Mentors](https://github.com/dharlerjr/Pewlett-Hackard-Analysis/blob/main/Images/Fig8.MentorshipProgram.PNG)
+![Number of Employees Retiring by Title](https://github.com/dharlerjr/Pewlett-Hackard-Analysis/blob/main/Images/Fig7.RetiringTitles.PNG)
 
 <p align="center">  
 <i>Figure 7: List of Mentors</i>
 </p>
 
-![Counts of Mentors by Title](https://github.com/dharlerjr/Pewlett-Hackard-Analysis/blob/main/Images/Fig9.MentorsByTitle.PNG)
+![List of Mentors](https://github.com/dharlerjr/Pewlett-Hackard-Analysis/blob/main/Images/Fig8.MentorshipProgram.PNG)
 
 <p align="center">  
 <i>Figure 8: Counts of Mentors by Title</i>
 </p>
 
-![Retiring Managers](https://github.com/dharlerjr/Pewlett-Hackard-Analysis/blob/main/Images/Fig10.RetiringManagers.PNG)
+![Counts of Mentors by Title](https://github.com/dharlerjr/Pewlett-Hackard-Analysis/blob/main/Images/Fig9.MentorsByTitle.PNG)
 
 <p align="center">  
 <i>Figure 9: Retiring Managers</i>
 </p>
+
+![Retiring Managers](https://github.com/dharlerjr/Pewlett-Hackard-Analysis/blob/main/Images/Fig10.RetiringManagers.PNG)
